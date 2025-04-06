@@ -1,12 +1,89 @@
-# React + Vite
+# 📝 iTask - Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal Todo App built using **React** and **Tailwind CSS**. Add, edit, complete, and delete your tasks — with data saved locally using `localStorage`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, edit, and delete todos
+- 📌 Mark tasks as completed
+- 👁️ Toggle visibility of completed tasks
+- 💾 Persist data with `localStorage`
+- ⚡ Fast and responsive UI (Tailwind CSS)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Run the app
+
+bash
+Copy
+Edit
+npm start
+Your app will be running at: http://localhost:3000
+
+🛠️ Built With
+React
+
+Tailwind CSS
+
+UUID
+
+🧩 Folder Structure
+pgsql
+Copy
+Edit
+src/
+├── components/
+│   └── Navbar.js
+├── App.js
+├── index.js
+└── index.css
+✨ Future Enhancements
+📱 Mobile-first design improvements
+
+🔔 Notifications or reminders
+
+🗂️ Categories or tags for tasks
+
+☁️ Cloud sync (Firebase or Supabase)
+
+🙋‍♂️ Author
+Your Name
+GitHub: @your-username
+
+📄 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+📌 Just replace:
+- `your-username` with your GitHub username
+- `your-repo-name` with the actual repo name
+- Add a screenshot if you want by uploading and linking it under the `## 📸 Preview` section (optional)
+
+Let me know if you want a version with Vercel/Netlify deployment steps too!
+
+
+
+
+
+
+
